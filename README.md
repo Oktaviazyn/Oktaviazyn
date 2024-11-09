@@ -20,7 +20,7 @@
 ## :cat: How To Reach Me :
 <p align="center">
 <a href="https://wa.me/6281936287658"><img src="https://img.shields.io/badge/WhatsApp -25D366?style=plastic&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/putrii.oktavia22?"><img src="https://img.shields.io/badge/Instagram-A020F0?style=plastic&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/putrii.oktavia22?"><img src="https://img.shields.io/badge/Instagram-FF0000?style=plastic&logo=instagram&logoColor=white" />
 </p>
 
 ---
@@ -42,6 +42,6 @@
 <details>
     <summary>&#127942 <b>My Brother</b></summary><br/>
 
-<a href="https://github.com/Okta-Px-bot"><strong>GITHUB ACCOUNT</strong></a>
+<a href="https://github.com/Okta-Px-bot"><img src="https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717"></a>
 
 </details> 
