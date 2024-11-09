@@ -1,8 +1,7 @@
 ## OKTAVIA
 
 <p align="center">
-  <img src="https://telegra.ph/file/286f2ce20dc38ed023e74.jpg" height="150" weight="150"/>
-<img src="https://telegra.ph/file/286f2ce20dc38ed023e74.jpg" height="150" weight="150"/>
+  <img src="https://pomf2.lain.la/f/vu02tc0j.jpg" height="300" weight="300"/>
 </p>
 
 ---
@@ -20,8 +19,8 @@
 
 ## :cat: How To Reach Me :
 <p align="center">
-<a href="https://wa.me/6281936287658"><img src="https://img.shields.io/badge/WhatsApp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/putrii.ayoe22?"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://wa.me/6281936287658"><img src="https://img.shields.io/badge/WhatsApp -25D366?style=plastic&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/putrii.oktavia22?"><img src="https://img.shields.io/badge/Instagram-A020F0?style=plastic&logo=instagram&logoColor=white" />
 </p>
 
 ---
