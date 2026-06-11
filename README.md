@@ -1,12 +1,12 @@
-## OKTAVIA
+## 💮:OKTAVIA
 
 <p align="center">
-  <img src="https://pomf2.lain.la/f/vu02tc0j.jpg" height="300" weight="300"/>
+  <img src="158788131.png" height="300" weight="300"/>
 </p>
 
 ---
 
-## 🖤: About Me :
+## 🩷: About Me :
 
 <h3>
 <strong>- 👋 Hi, I’m oktavia<br>
