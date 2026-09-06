@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://wa.me/6281936287658"><img src="https://img.shields.io/badge/WhatsApp -25D366?style=flat-square&logo=whatsapp&logoColor=black" />
 <a href="https://www.instagram.com/putrii.oktavia22?"><img src="https://img.shields.io/badge/Instagram-FF0000?style=flat-square&logo=instagram&logoColor=black" />
-<a href="https://tiktok.com/@just.npc66"><img src="https://img.shields.io/badge/Tiktok-25D366?style=flat-square&logo=tiktok&logoColor=black" />
+<a href="https://tiktok.com/@just.npc66"><img src="https://img.shields.io/badge/Tiktok-000000?style=flat-square&logo=tiktok&logoColor=white" />
 </p>
 
 ---
