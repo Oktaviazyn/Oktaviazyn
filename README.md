@@ -1,4 +1,4 @@
-## 💮:OKTAVIA
+## 💮 OKTAVIA AYU
 
 <p align="center">
   <img src="158788131.png" height="300" weight="300"/>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🩷: About Me :
+## ❤️ About Me :
 
 <h3>
 <strong>- 👋 Hi, I’m oktavia<br>
@@ -17,25 +17,19 @@
 
 ---
 
-## :cat: How To Reach Me :
+## ❤ How Reach Me :
 <p align="center">
-<a href="https://wa.me/6281936287658"><img src="https://img.shields.io/badge/WhatsApp -25D366?style=plastic&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/putrii.oktavia22?"><img src="https://img.shields.io/badge/Instagram-FF0000?style=plastic&logo=instagram&logoColor=white" />
+<a href="https://wa.me/6281936287658"><img src="https://img.shields.io/badge/WhatsApp -25D366?style=flat-square&logo=whatsapp&logoColor=black" />
+<a href="https://www.instagram.com/putrii.oktavia22?"><img src="https://img.shields.io/badge/Instagram-FF0000?style=flat-square&logo=instagram&logoColor=black" />
+<a href="https://tiktok.com/@just.npc66"><img src="https://img.shields.io/badge/Tiktok-25D366?style=flat-square&logo=tiktok&logoColor=black" />
 </p>
 
 ---
 
-## 🩷: My Stats :
+## 🩷 My Stats :
 <p align="center"><a href="https://github.com/Oktaviazyn/followers"><img title="Followers" src="https://img.shields.io/github/followers/Oktaviazyn?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Oktaviazyn&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Oktaviazyn&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/Oktaviazyn"><img src="https://github-readme-stats.vercel.app/api?username=Oktaviazyn&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Oktaviazyn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oktaviazyn&theme=radical&layout=compact"></a></p>
-
----
-
-## 🖋️: Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DGXeon&repo=CheemsBot-MD4&theme=radical)
 
 ---
 
@@ -45,3 +39,5 @@
 <a href="https://github.com/Okta-Px-bot"><img src="https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717"></a>
 
 </details> 
+
+---
