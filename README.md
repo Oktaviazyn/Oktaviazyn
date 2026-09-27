@@ -1,8 +1,6 @@
 ## 💮 OKTAVIA AYU
 
-<p align="center">
-  <img src="158788131.png" height="300" weight="300"/>
-</p>
+<a href="https://ibb.co.com/H9Pn20H"><img src="https://i.ibb.co.com/GrMcJX5/1790535732890.jpg" alt="1790535732890" border="0"></a>
 
 ----
 
@@ -21,10 +19,9 @@
   <!-- Badges Social Media & Contact -->
   <p align="center">
     <a href="https://wa.me/6281936287658"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-    <a href="https://instagram.com/username_kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://tiktok.com"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://www.instagram.com/putrii.oktavia22"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://tiktok.com/@putriioktavia22"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a> 
+   <a href="mailto:oktaviaayu652@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 
 </div>
@@ -34,13 +31,14 @@
 ### 🚀 about me
 
 username: Bagus Al Firmando
-  role: Tech & Project Enthusiast
-  location: Indonesia 🇮🇩
-  current_focus: Developing digital solutions & learning cutting-edge tools
-  hobbies: 
+role: Tech & Project Enthusiast
+location: Indonesia 🇮🇩
+current_focus: Developing digital solutions & learning cutting-edge tools
+hobbies: 
     - Exploring Tech Gadgets
     - Content Creation
     - Continuous Learning
+    
     
 🛠️ Tech Stack & Tools
 ​<p align="left">
@@ -53,6 +51,7 @@ username: Bagus Al Firmando
 </p>
 
 ​📊 GitHub Stats
+
 ​<div align="center">
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Oktaviazyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
