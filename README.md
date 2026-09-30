@@ -1,13 +1,12 @@
-## 💮 OKTAVIA AYU
+### 💮 OKTAVIA AYU
 
 <a href="https://ibb.co.com/H9Pn20H"><img src="https://i.ibb.co.com/GrMcJX5/1790535732890.jpg" alt="1790535732890" border="0"></a>
 
-----
+---
 
 <div align="center">
-
   <!-- Banner Header -->
-  <h1>Hi 👋, I'm <span color="#007ACC">Bagus Al Firmando</span></h1>
+  <h1>Hi 👋, I'm <span color="#007ACC">Oktaviazyn</span></h1>
   <h3>A Passionate Tech Enthusiast & Creator</h3>
 
   <p align="center">
@@ -26,13 +25,14 @@
 
 </div>
 
----
+----
 
 ### 🚀 about me
 
-username: Bagus Al Firmando
-role: Tech & Project Enthusiast
-location: Indonesia 🇮🇩
+USERNAME: Bagus Al Firmando
+ROLE: Tech & Project Enthusiast
+LOCATION: Indonesia 🇮🇩
+⇨⇨⇨⇨⇨⇨⇨⇨
 current_focus: Developing digital solutions & learning cutting-edge tools
 hobbies: 
     - Exploring Tech Gadgets
@@ -40,7 +40,7 @@ hobbies:
     - Continuous Learning
     
     
-🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 ​<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -50,8 +50,7 @@ hobbies:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-​📊 GitHub Stats
-
+#### ​📊 GitHub Stats
 ​<div align="center">
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Oktaviazyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -61,7 +60,7 @@ hobbies:
 ​<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oktaviazyn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
-​⚡ Random Dev Quote
+####​⚡ Random Dev Quote
 ​<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
